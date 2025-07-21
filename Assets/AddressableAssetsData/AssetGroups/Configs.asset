@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  m_GroupName: Configs
+  m_GUID: e33effc005b4b1948921a159153a3ae2
+  m_SerializeEntries:
+  - m_GUID: 2359a6f8ca076794097893346618542a
+    m_Address: Configs/MemesConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ad5eed11b9159545a9d3776a454d58a
+    m_Address: Configs/JoystickConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 937cd64df3f4c52439d26dc214cb69f7
+    m_Address: Configs/AvatarConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b538207cc74ecb94fb9deeef5b28d634
+    m_Address: Configs/WindowsConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c11596d2ca1e74340aed37bdfc1ffe49
+    m_Address: Configs/GameplaySettings
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc55b4652df564046b14e73ab2889db3
+    m_Address: Configs/AICharactersConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 94d913bf7d45a784080c19b1a695e463, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 71b0d22992797544c91788480beda0d1, type: 2}
+    - {fileID: 11400000, guid: a8987ec0509f11b4686632eb615775e0, type: 2}
